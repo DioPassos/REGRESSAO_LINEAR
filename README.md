@@ -1,4 +1,5 @@
-Análise de Regressão para Previsão de Degradação de Material
+                                      Análise de Regressão para Previsão de Degradação de Material
+
 Este repositório contém o código para um modelo de regressão linear desenvolvido para prever a degradação de um determinado material com base nos dados fornecidos. Abaixo está um guia detalhado sobre como usar o código e entender os resultados.
 
 Dados
