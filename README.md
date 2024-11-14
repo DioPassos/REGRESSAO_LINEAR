@@ -3,7 +3,7 @@
 Este repositório contém o código para um modelo de regressão linear desenvolvido para prever a degradação de um determinado material com base nos dados fornecidos. Abaixo está um guia detalhado sobre como usar o código e entender os resultados.
 
 Dados
-O conjunto de dados usado para esta análise está armazenado em um arquivo Excel chamado "REGRESSÃO_LINEAR.xlsx". O conjunto de dados consiste em três colunas: 'medida', 'data' e 'velocidade'. Aqui está uma breve descrição de cada coluna:
+O conjunto de dados usado para esta análise está armazenado em um arquivo Excel chamado "REGRESSÃO_LINEAR.xlsx". O conjunto de dados consiste em três colunas: 'medida', 'data' e 'velocidade'. Aqui está uma breve descrição de cada coluna:para estudo
 
 'medida': Representa a medida de degradação do material.
 'data': Representa um determinado parâmetro relacionado ao material.
